@@ -1,0 +1,14 @@
+{
+  "author": "Secret Place Studio",
+  "name": "sp.sframework.ecs.proto",
+  "displayName": "SF ECS Proto",
+  "version": "0.1.0",
+  "description": "LeoEcs Proto Module",
+  "keywords": [
+    "ecs",
+    "leoecs",
+	"proto"
+  ],
+  "category": "SFramework",
+  "type": "library"
+}

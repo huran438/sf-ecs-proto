@@ -1,0 +1,24 @@
+{
+    "name": "SFramework.ECS.Proto.Runtime",
+    "rootNamespace": "SFramework.ECS.Proto.Runtime",
+    "references": [
+        "SFramework.Configs.Runtime",
+        "SFramework.Core.Runtime",
+        "Leopotam.EcsProto",
+        "Leopotam.EcsProto.QoL"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Sirenix.OdinInspector.Attributes.dll",
+        "Sirenix.Serialization.dll",
+        "Sirenix.Utilities.dll",
+        "Sirenix.Serialization.Config.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
