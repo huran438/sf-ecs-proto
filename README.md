@@ -2,8 +2,6 @@
 
 # SF ECS Proto
 
-[Documentation website](https://docs.secretplace.studio/#sf-ecs-proto)
-
 Unity entities, inspector providers, and configured update pipelines for **LeoECS Proto** in SFramework. This package uses Proto worlds and packed entities, plus Odin inspector attributes.
 
 ![Package version](https://img.shields.io/badge/package-0.1.0-334155) ![License](https://img.shields.io/badge/license-MIT-334155)
